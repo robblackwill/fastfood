@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(100, 196, 10);
+    color: rgb(255, 255, 255);
+}
+
+.table {
+  font-family: fantasy;
+  color:darkred
+
+}
+.statebuttons {
+  color: green
+
+}
+.ordered {
+  color:yellow
+}
+.cooked {
+  color: red
+
+}
+.served {
+  color:blueviolet
+
+}
+.paid {
+  color:green
+}
